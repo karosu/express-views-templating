@@ -1,0 +1,5 @@
+# .env should never be pushed to public but for learning purposes we are going to push it to github
+
+
+node_modules
+.env
